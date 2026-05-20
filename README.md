@@ -1,4 +1,4 @@
-# Multi-Agent Travel Itinerary Planner
+# Travel Geo Guide Agent 
 
 Welcome to the **AI Travel Itinerary Planner**, a modular multi-agent application built using Streamlit, LangGraph, LangChain, and Ollama. The system leverages multiple AI agents to generate personalized travel itineraries and provide intelligent travel recommendations based on user preferences.
 
